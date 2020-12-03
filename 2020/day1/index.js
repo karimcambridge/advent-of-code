@@ -32,5 +32,7 @@ const puzzle2 = () => input.every(a => {
 	});
 });
 
+// run
+
 puzzle1();
 puzzle2();
